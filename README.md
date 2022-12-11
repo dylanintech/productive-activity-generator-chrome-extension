@@ -1,6 +1,7 @@
-# buildspace 
+# productive activity generator extension
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
+This is a chrome extension that lets you highlight text anywhere and turn it into a list of productive activities!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+### **Note**
+Only works on [Calmly](https://calmlywriter.com/online/) for now, but I'm working on getting it to work on Notion.
+
